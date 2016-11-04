@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Email>
+    <smtpServer>pod51014.outlook.com</smtpServer>
+    <useSSL>0</useSSL>
+    <port>587</port>
+    <timeout>30</timeout>
+    <loginName>A40692@alunos.isel.pt</loginName>
+    <fromEmail>A40692@alunos.isel.pt</fromEmail>
+    <fromName>A40692</fromName>
+    <password>2w3e4r</password>
+</Email>

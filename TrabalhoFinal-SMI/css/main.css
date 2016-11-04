@@ -1,0 +1,96 @@
+
+body {
+    background-image: url("../assets/background.jpg");
+    padding-left: 5%; 
+    padding-right: 5%;
+    font-family: 'Roboto Condensed',sans-serif;
+    color: white;
+}
+
+header {
+    padding-left: 15px;
+    background-color: rgba(21, 21, 21, 0.9);
+    border: 2px gray solid;
+    color: gray;
+} 
+
+header h1 {
+    margin-bottom: 0px;
+}
+
+nav {background-color: black; padding-top: 10px; padding-bottom: 10px;}
+
+nav a {color: whitesmoke; margin-left: 15px}
+
+aside {background-color: rgba(51, 51, 51, 0.9); padding: 15px}
+
+.content {
+    background-color: rgba(21, 21, 21, 0.9);
+    border: gray solid;
+    float: left;
+    width: 63%;
+    padding: 15px;
+}
+
+aside {
+    float: right;
+    width: 30%;
+    border: gray solid;
+}
+
+.warning {color: red;}
+
+.search {margin-bottom: 20px}
+
+.search select {margin-right: 20px}
+
+.eventBlock{
+    background-color: rgba(31, 31, 31, 0.9);
+    border: gray 2px solid;
+    width: 100%;
+    color: white
+}
+
+.eventBlockTittle{font-size: 120%; font-weight: bold;}
+
+select {    
+    background: rgba(8,8,8,1);
+    color:#fff;
+    text-shadow:0 1px 0 rgba(0,0,0,0.4);
+}
+
+.buttonDark {
+    background: rgba(8,8,8,1);
+    color:#fff;
+    text-shadow:0 1px 0 rgba(0,0,0,0.4);
+}
+
+input.upload{
+    background: rgba(8,8,8,1);
+    color:#fff;
+    text-shadow:0 1px 0 rgba(0,0,0,0.4);
+}
+
+a { color: gray}
+
+form { color: white }
+
+.title{margin-left: 200px; font-size: 45px;}
+
+.logo{position: absolute; left: 100px; top: 0px; width: 180px}
+
+.subTitle{margin-left: 200px; margin-top: 0px}
+
+p {color: white; margin-top: 0px}
+
+#eventTitle{font-size:30px}
+
+.contentImgs{padding-left: 75px}
+
+.description{background-color: gray; padding: 20px; color: black}
+
+.imgSubComment{padding-left: 160px}
+
+.imgSubSubComment{padding-left: 160px}
+
+#subsubcomment{padding-left: 160px;padding-right: 160px}
